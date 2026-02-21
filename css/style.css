@@ -16,6 +16,7 @@ h2 {
 p {
     color: rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
+    font-size: 2em;
 }
 
 a {
@@ -32,5 +33,5 @@ ol {
 ul {
     color:rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
-    font-size: 2em;
+    font-size: 1.5em;
 }
