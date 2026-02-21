@@ -30,12 +30,11 @@ ol {
     font-size: 2em
 }
 
-ul {
+ul > li {
     color:rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
     font-size: 2em;
-}
-
-ul > li {
     text-transform: lowercase;
 }
+
+
