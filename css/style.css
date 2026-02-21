@@ -36,9 +36,11 @@ ul > li {
     font-family:'Times New Roman', Times, serif;
     font-size: 2em;
     text-transform: lowercase;
-    .bold{
-        font-weight: bold;
-    }
+
+}
+
+.bold{
+    font-weight: bold;
 }
 
 
