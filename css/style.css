@@ -36,6 +36,6 @@ ul {
     font-size: 2em;
 }
 
-# Notable Achievements {
+ul > li {
     text-transform: uppercase;
 }
