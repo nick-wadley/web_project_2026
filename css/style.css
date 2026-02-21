@@ -16,7 +16,7 @@ h2 {
 p {
     color: rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 a {
@@ -27,11 +27,11 @@ a {
 ol { 
     color:rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
-    font-size: 1em;
+    font-size: 2em
 }
 
 ul {
     color:rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
-    font-size: 1em;
+    font-size: 2em;
 }
