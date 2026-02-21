@@ -19,6 +19,7 @@ p {
     font-size: 1.5em;
 }
 
+
 a {
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
@@ -35,6 +36,10 @@ ul > li {
     font-family:'Times New Roman', Times, serif;
     font-size: 2em;
     text-transform: lowercase;
+    .bold{
+        font-weight: bold;
+    }
 }
+
 
 
