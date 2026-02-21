@@ -5,15 +5,32 @@ html {
 
 h1 {
     color: rgb(255, 255, 255);
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
 }
 
 h2 {
     color: rgb(255, 255, 255);
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
 }
 
 p {
     color: rgb(255, 255, 255);
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol { 
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
+
+ul {
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2em;
 }
