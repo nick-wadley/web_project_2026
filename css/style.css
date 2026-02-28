@@ -61,3 +61,8 @@ b {
     border: 1px solid white;
     padding: 0.25em;
 }
+
+mark {
+    background-color: rgb(255, 255, 255);
+    color: blue;
+}
