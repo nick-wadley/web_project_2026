@@ -72,7 +72,6 @@ section {
 .large, .small {
     border: 20px solid white;
     font-size: 2em;
-    margin: auto;
 }
 
 .large {
