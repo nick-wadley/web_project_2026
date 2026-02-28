@@ -43,6 +43,10 @@ ul > li {
     font-style: italic;
 }
 
+* {
+    border: 1px solid white;
+}
+
 
 
 
