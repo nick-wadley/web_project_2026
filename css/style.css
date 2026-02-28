@@ -61,7 +61,7 @@ b {
     border: 1px solid white;
     padding: 0.25em;
     width: 100%;
-
+    box-sizing: border-box;
 }
 
 mark {
@@ -71,6 +71,4 @@ mark {
     padding: 0em;
 }
 
-section {
 
-}
