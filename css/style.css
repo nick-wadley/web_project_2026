@@ -56,14 +56,6 @@ main {
     padding: 2em;
 }
 
-
-b {
-    border: 1px solid white;
-    padding: 0.25em;
-    width: 100%;
-    box-sizing: border-box;
-}
-
 mark {
     background-color: rgb(255, 255, 255);
     color: blue;
