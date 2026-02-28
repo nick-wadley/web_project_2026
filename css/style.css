@@ -72,6 +72,7 @@ section {
 .large, .small {
     border: 20px solid white;
     font-size: 2em;
+    margin: auto;
 }
 
 .large {
@@ -80,5 +81,6 @@ section {
 
 .small {
     padding: 15px;
-    width: 100%
+    width: 100%;
+    box-sizing: border-box;
 }
