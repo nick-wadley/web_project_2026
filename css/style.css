@@ -60,6 +60,8 @@ main {
 b {
     border: 1px solid white;
     padding: 0.25em;
+    width: 100%;
+
 }
 
 mark {
@@ -67,4 +69,8 @@ mark {
     color: blue;
     border: 1px solid white;
     padding: 0em;
+}
+
+section {
+
 }
