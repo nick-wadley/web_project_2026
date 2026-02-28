@@ -80,7 +80,7 @@ section {
 }
 
 .small {
+    box-sizing: border-box;
     padding: 15px;
     width: 100%;
-    box-sizing: border-box;
 }
