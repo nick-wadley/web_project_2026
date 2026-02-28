@@ -68,3 +68,17 @@ section {
     border-style: groove;
     padding: 1.25 em;
 }
+
+.large, .small {
+    border: 20px solid white;
+    font-size: 2em;
+}
+
+.large {
+    width: 400px
+}
+
+.small {
+    padding: 15px;
+    width: 100%
+}
