@@ -73,6 +73,6 @@ mark {
 
 section {
     border: 1px solid white;
-    border-style: dashed;
+    border-style: groove;
     padding: 1.25 em;
 }
