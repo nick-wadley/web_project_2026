@@ -71,4 +71,8 @@ mark {
     padding: 0em;
 }
 
-
+section {
+    border: 1px solid white;
+    border-style: dashed;
+    padding: 1.25 em;
+}
