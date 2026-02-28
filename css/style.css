@@ -43,10 +43,14 @@ ul > li {
     font-style: italic;
 }
 
-* {
-    border: 1px solid white;
-}
+/* deleted debug border */
 
+main{
+    border: 1px solid white;
+    width: 90%;
+    margin: auto;
+    padding: 2em;
+}
 
 
 
