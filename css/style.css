@@ -7,11 +7,18 @@ html {
 
 h1 {
     color: rgb(255, 255, 255);
+    font-size: 2em;
 
 }
 
 h2 {
     color: rgb(255, 255, 255);
+    font-size: 1.5em;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    font-size: 0.5em;
 }
 
 p {
