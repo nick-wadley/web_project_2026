@@ -29,6 +29,7 @@ p {
     border-style: dashed;
     padding: 0.5em;
     line-height: 1.4;
+    text-indent: 20px; /* This will indent the first line of each paragraph */
 
 }
 
@@ -43,7 +44,6 @@ ol {
     font-size: 1.5em;
     font-weight: bold;
     line-height: 2;
-    text-indent: 20px; /* This will indent the first line of each paragraph */
 }
 
 ul > li {
