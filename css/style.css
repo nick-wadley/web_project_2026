@@ -18,7 +18,7 @@ h2 {
 
 h3{
     color: rgb(255, 255, 255);
-    font-size: 1em;
+    font-size: 2em;
 }
 
 p {
@@ -28,6 +28,7 @@ p {
     border: 1px white;
     border-style: dashed;
     padding: 0.5em;
+    line-height: 1.4;
 
 }
 
