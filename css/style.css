@@ -1,5 +1,5 @@
 html {
-    background: linear-gradient(blue, gray);
+    background-color: blue; /* Tested out blue-gray gradient */
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: 100%;
@@ -44,7 +44,7 @@ ol {
     font-size: 1.5em;
     font-weight: bold;
     line-height: 2;
-    list-style-type: upper-roman;
+    /* Had roman numeral experimental code here */
 }
 
 ul > li {
