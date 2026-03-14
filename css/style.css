@@ -1,5 +1,5 @@
 html {
-    background-color: blue;
+    background: linear-gradient(blue);
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: 100%;
@@ -96,4 +96,10 @@ nav {
     box-sizing: border-box;
     padding: 15px;
     width: 100%;
+}
+
+img {
+    border: 1px solid white;
+    width: 500px;
+    height: 500px;
 }
