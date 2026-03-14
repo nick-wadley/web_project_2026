@@ -44,6 +44,7 @@ ol {
     font-size: 1.5em;
     font-weight: bold;
     line-height: 2;
+    list-style-type: roman_upper;
 }
 
 ul > li {
