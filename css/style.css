@@ -90,6 +90,7 @@ footer {
     display: flex;
     gap: 20px;
     flex-flow: row wrap;
+    justify-content: center;
 }
 
 nav {
