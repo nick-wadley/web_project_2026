@@ -67,10 +67,6 @@ main {
     width: 90%;
     margin: auto;
     padding: 2em;
-    display: flex;
-    gap: 20px;
-    flex-flow: row wrap;
-    justify-content: center;
 }
 
 mark {
