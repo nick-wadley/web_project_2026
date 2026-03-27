@@ -30,6 +30,10 @@ p {
     padding: 0.5em;
     line-height: 1.4;
     text-indent: 20px; /* This will indent the first line of each paragraph */
+    display: flex;
+    gap: 20px;
+    flex-flow: row wrap;
+    justify-content: flex-end;
 
 }
 
