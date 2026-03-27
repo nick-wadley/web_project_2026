@@ -44,9 +44,6 @@ ol {
     font-weight: bold;
     line-height: 2;
     text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     /* Had roman numeral experimental code here */
 }
 
