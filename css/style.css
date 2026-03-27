@@ -79,7 +79,7 @@ section {
     border-style: groove;
     padding: 1.25em;
     display: flex;
-    gap: 50px;
+    gap: 15gappx;
     flex-flow: row wrap;
     justify-content: center;
 }
