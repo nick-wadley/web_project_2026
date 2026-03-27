@@ -33,7 +33,7 @@ p {
     display: flex;
     gap: 20px;
     flex-flow: row wrap;
-    justify-content: flex-end;
+    justify-content: center;
 
 }
 
