@@ -44,6 +44,7 @@ ol {
     font-size: 1.5em;
     font-weight: bold;
     line-height: 2;
+    justify-content: center;
     /* Had roman numeral experimental code here */
 }
 
@@ -52,6 +53,7 @@ ul > li {
     font-size: 1.5em;
     line-height: 2;
     font-weight: bold;
+    justify-content: center;
 }
 
 .italics {
@@ -78,10 +80,12 @@ section {
     border: 1px solid white;
     border-style: groove;
     padding: 1.25em;
+}
+
+footer {
     display: flex;
-    gap: 15px;
+    gap: 20px;
     flex-flow: row wrap;
-    justify-content: center;
 }
 
 nav {
