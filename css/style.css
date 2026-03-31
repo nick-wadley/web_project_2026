@@ -114,6 +114,7 @@ img {
 
 .two-column {
     display: flex;
+    flex-wrap: wrap;
     gap: 40px;
     align-items: center;
 }
