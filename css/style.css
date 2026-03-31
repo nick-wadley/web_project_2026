@@ -78,11 +78,6 @@ section {
     border: 1px solid white;
     border-style: groove;
     padding: 1.25em;
-    display: flex;
-    gap: 40px;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: flex-start;
 }
 
 footer {
