@@ -110,7 +110,6 @@ img {
     border: 1px solid white;
     width: 500px;
     height: 500px;
-    object-fit: contain;
 }
 
 .two-column {
@@ -123,5 +122,6 @@ img {
 .column {
     flex: 1;
     min-width: 220px;
+    object-fit: contain;
 }
 
