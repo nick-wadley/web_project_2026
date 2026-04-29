@@ -129,3 +129,7 @@ img {
     height: 100%;
     object-fit: contain;
 }
+
+.article-header {
+    width: 100%;
+}
